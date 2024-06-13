@@ -6,6 +6,8 @@
 
 Here are some ideas to get you started:
 -->
+
+# 💫 About Me:
     
 - 🔭 I’m currently working on **Front-End Development**
 - 🌱 I’m currently learning **Backend Development, DevOPS**
@@ -16,9 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **gtech official**
 - ⚡ Fun fact: **Introvert**
 
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
