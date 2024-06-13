@@ -1,19 +1,21 @@
-### Hi there 👋
+# Hi there 👋,
+## It's G-Tech Official 🙏
 
 <!--
 **gtech-official08/gtech-official08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+    
+- 🔭 I’m currently working on **Front-End Development**
+- 🌱 I’m currently learning **Backend Development, DevOPS**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤔 I’m looking for help with **UX/UI**
+- 💬 Ask me about **Front-End Development, UX/UI**
+- 📫 How to reach me: **Instagram, or mail us at: gtech.official08@gmail.com**
+- 😄 Pronouns: **gtech official**
+- ⚡ Fun fact: **Introvert**
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
