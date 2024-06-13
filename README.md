@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **UX/UI**
 - 💬 Ask me about **Front-End Development, UX/UI**
-- 📫 How to reach me: **Instagram, or mail us at: gtech.official08@gmail.com**
+- 📫 How to reach me: **https://www.instagram.com/gtech.official08/, or mail us at: gtech.official08@gmail.com**
 - 😄 Pronouns: **gtech official**
 - ⚡ Fun fact: **Introvert**
 
